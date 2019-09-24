@@ -8,3 +8,11 @@ body {
     line-height: 30px;
     color: #000; 
 }
+
+header{
+    padding: 1px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    background-color: #6fc;
+}
