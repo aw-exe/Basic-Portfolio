@@ -1,0 +1,10 @@
+* {
+    box-sizing:border-box;
+    text-align:center;
+}
+
+body {
+    font-size: 20px;
+    line-height: 30px;
+    color: #000; 
+}
