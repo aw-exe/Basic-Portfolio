@@ -16,3 +16,12 @@ header{
     color: #fff;
     background-color: #6fc;
 }
+
+footer{
+    padding: 1px;
+    font-size: 60%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    background-color: #333;
+    Float: bottom;
+}
