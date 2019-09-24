@@ -10,18 +10,25 @@ body {
 }
 
 header{
-    padding: 1px;
-    margin-bottom: 20px;
+    padding: 1%;
+    width: 25%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #fff;
     background-color: #6fc;
 }
 
+#bio-image{
+    height: 300px;
+    float: left;
+}
+
 footer{
-    padding: 1px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     font-size: 60%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #fff;
     background-color: #333;
-    Float: bottom;
 }
