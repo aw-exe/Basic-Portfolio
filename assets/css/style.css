@@ -4,7 +4,7 @@
 }
 
 .nav-container {
-    position: relative;
+    position: fixed;
     display: inline-block;
     float: right;
 }
@@ -55,6 +55,7 @@ form .submit {
 #bio-image {
     height: 300px;
     float: left;
+    margin-right: 3%;
 }
 
 body {
@@ -79,6 +80,12 @@ nav {
 h3 {
     text-align: left;
     Color: rgb(151, 204, 97);
+}
+
+p {
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 form {
